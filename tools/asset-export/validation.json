@@ -1,0 +1,160 @@
+{
+  "status": "PASS",
+  "models": [
+    {
+      "file": "PodBurst.glb",
+      "bytes": 1734308,
+      "meshCount": 7,
+      "materialCount": 7,
+      "imageCount": 21
+    },
+    {
+      "file": "SeedRepeater.glb",
+      "bytes": 2208152,
+      "meshCount": 7,
+      "materialCount": 7,
+      "imageCount": 21
+    },
+    {
+      "file": "TrashCleaner_A.glb",
+      "bytes": 2938844,
+      "meshCount": 14,
+      "materialCount": 10,
+      "imageCount": 30
+    },
+    {
+      "file": "TrashCleaner_B.glb",
+      "bytes": 3071188,
+      "meshCount": 14,
+      "materialCount": 10,
+      "imageCount": 30
+    },
+    {
+      "file": "TideHeap.glb",
+      "bytes": 3390652,
+      "meshCount": 9,
+      "materialCount": 9,
+      "imageCount": 27
+    },
+    {
+      "file": "MothDrone.glb",
+      "bytes": 2305628,
+      "meshCount": 23,
+      "materialCount": 11,
+      "imageCount": 0
+    },
+    {
+      "file": "SortingConveyor.glb",
+      "bytes": 1446268,
+      "meshCount": 8,
+      "materialCount": 8,
+      "imageCount": 24
+    },
+    {
+      "file": "CargoContainer.glb",
+      "bytes": 3588940,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 3
+    },
+    {
+      "file": "RescueCrane.glb",
+      "bytes": 3288772,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 3
+    },
+    {
+      "file": "RescueLaunch.glb",
+      "bytes": 2692592,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 3
+    },
+    {
+      "file": "WasteBundle.glb",
+      "bytes": 791508,
+      "meshCount": 4,
+      "materialCount": 4,
+      "imageCount": 12
+    },
+    {
+      "file": "IntakeFilter.glb",
+      "bytes": 899760,
+      "meshCount": 6,
+      "materialCount": 6,
+      "imageCount": 18
+    },
+    {
+      "file": "FilterFrame.glb",
+      "bytes": 770192,
+      "meshCount": 5,
+      "materialCount": 5,
+      "imageCount": 15
+    },
+    {
+      "file": "BatteryModule.glb",
+      "bytes": 2154592,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 4
+    },
+    {
+      "file": "ControlModule.glb",
+      "bytes": 1216568,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 4
+    },
+    {
+      "file": "WindModule.glb",
+      "bytes": 1124808,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 4
+    },
+    {
+      "file": "ServiceTerminal.glb",
+      "bytes": 2400660,
+      "meshCount": 1,
+      "materialCount": 1,
+      "imageCount": 4
+    },
+    {
+      "file": "WindTurbine.glb",
+      "bytes": 2324860,
+      "meshCount": 2,
+      "materialCount": 2,
+      "imageCount": 6
+    },
+    {
+      "file": "IslandTechnician.glb",
+      "bytes": 435664,
+      "meshCount": 89,
+      "materialCount": 13,
+      "imageCount": 39
+    },
+    {
+      "file": "EngineerPlayer.glb",
+      "bytes": 501452,
+      "meshCount": 113,
+      "materialCount": 17,
+      "imageCount": 51
+    },
+    {
+      "file": "IslandTechnician_Green.glb",
+      "bytes": 434488,
+      "meshCount": 89,
+      "materialCount": 13,
+      "imageCount": 39
+    },
+    {
+      "file": "IslandTechnician_Orange.glb",
+      "bytes": 435564,
+      "meshCount": 89,
+      "materialCount": 13,
+      "imageCount": 39
+    }
+  ],
+  "totalGlbBytes": 40155460
+}

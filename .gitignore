@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.cache/
+__pycache__/
+*.log
+tools/asset-export/cache/
+tools/asset-export/tmp/
