@@ -1,0 +1,1089 @@
+{
+  "coordinateSystem": "+Y up, +Z front",
+  "models": [
+    {
+      "name": "PodBurst",
+      "path": "/assets/models/PodBurst.glb",
+      "bytes": 1734308,
+      "triangles": 19764,
+      "boundsMinXYZ": [
+        -0.12872,
+        -0.2295,
+        -0.222
+      ],
+      "boundsMaxXYZ": [
+        0.12872,
+        0.2783,
+        0.58639
+      ],
+      "sizeMetresXYZ": [
+        0.25744,
+        0.5078,
+        0.80839
+      ],
+      "pivotsXYZ": {
+        "Muzzle": [
+          0.0,
+          0.052,
+          0.559
+        ],
+        "PodBurst": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_LeafOlive",
+        "BRPBR_Reclaim_OpticCyan",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_SeedAmber",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "SeedRepeater",
+      "path": "/assets/models/SeedRepeater.glb",
+      "bytes": 2208152,
+      "triangles": 30280,
+      "boundsMinXYZ": [
+        -0.12872,
+        -0.27545,
+        -0.40963
+      ],
+      "boundsMaxXYZ": [
+        0.12872,
+        0.4224,
+        0.75271
+      ],
+      "sizeMetresXYZ": [
+        0.25744,
+        0.69785,
+        1.16234
+      ],
+      "pivotsXYZ": {
+        "Muzzle": [
+          0.0,
+          0.052,
+          0.739
+        ],
+        "SeedRepeater": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_LeafOlive",
+        "BRPBR_Reclaim_OpticCyan",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_SeedAmber",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "TrashCleaner_A",
+      "path": "/assets/models/TrashCleaner_A.glb",
+      "bytes": 2938844,
+      "triangles": 39492,
+      "boundsMinXYZ": [
+        -0.98498,
+        0.095,
+        -0.9786
+      ],
+      "boundsMaxXYZ": [
+        0.99142,
+        1.76855,
+        1.12537
+      ],
+      "sizeMetresXYZ": [
+        1.9764,
+        1.67355,
+        2.10397
+      ],
+      "pivotsXYZ": {
+        "Head": [
+          0.0,
+          1.37,
+          0.055
+        ],
+        "TrashCleaner_A": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_HazardRed",
+        "BRPBR_Reclaim_OpticCyan",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_RustSteel",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_WastePlastic",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "TrashCleaner_B",
+      "path": "/assets/models/TrashCleaner_B.glb",
+      "bytes": 3071188,
+      "triangles": 41372,
+      "boundsMinXYZ": [
+        -0.87453,
+        0.095,
+        -0.81336
+      ],
+      "boundsMaxXYZ": [
+        0.75926,
+        1.62945,
+        0.8969
+      ],
+      "sizeMetresXYZ": [
+        1.63379,
+        1.53445,
+        1.71026
+      ],
+      "pivotsXYZ": {
+        "Head": [
+          0.0,
+          1.37,
+          0.055
+        ],
+        "TrashCleaner_B": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_HazardRed",
+        "BRPBR_Reclaim_OpticCyan",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_RustSteel",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_WastePlastic",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "TideHeap",
+      "path": "/assets/models/TideHeap.glb",
+      "bytes": 3390652,
+      "triangles": 51536,
+      "boundsMinXYZ": [
+        -1.875,
+        0.01,
+        -1.4
+      ],
+      "boundsMaxXYZ": [
+        1.875,
+        2.61404,
+        1.575
+      ],
+      "sizeMetresXYZ": [
+        3.75,
+        2.60404,
+        2.975
+      ],
+      "pivotsXYZ": {
+        "Node_Left": [
+          -1.53,
+          1.18,
+          1.186
+        ],
+        "Node_Right": [
+          1.53,
+          1.18,
+          1.186
+        ],
+        "RecycleLever": [
+          0.0,
+          1.14,
+          1.55
+        ],
+        "TideHeap": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_HazardRed",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_RustSteel",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_WastePlastic",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "MothDrone",
+      "path": "/assets/models/MothDrone.glb",
+      "bytes": 2305628,
+      "triangles": 38984,
+      "boundsMinXYZ": [
+        -0.494,
+        -0.144,
+        -0.432
+      ],
+      "boundsMaxXYZ": [
+        0.494,
+        0.0864,
+        0.432
+      ],
+      "sizeMetresXYZ": [
+        0.988,
+        0.2304,
+        0.864
+      ],
+      "pivotsXYZ": {
+        "Rotor_0": [
+          -0.307,
+          0.053,
+          0.245
+        ],
+        "Rotor_1": [
+          0.307,
+          0.053,
+          0.245
+        ],
+        "Rotor_2": [
+          -0.307,
+          0.053,
+          -0.245
+        ],
+        "Rotor_3": [
+          0.307,
+          0.053,
+          -0.245
+        ],
+        "MothDrone": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BrushedSteel",
+        "CharcoalAlloy",
+        "DarkMarking",
+        "DeepTealPaint",
+        "EmissiveAmber",
+        "EmissiveCyan",
+        "IvoryPaint",
+        "MarkingWhite",
+        "OpticalGlass",
+        "Rubber",
+        "SafetyOrange"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [
+        "BrushedSteel",
+        "CharcoalAlloy",
+        "DarkMarking",
+        "DeepTealPaint",
+        "EmissiveAmber",
+        "EmissiveCyan",
+        "IvoryPaint",
+        "MarkingWhite",
+        "OpticalGlass",
+        "Rubber",
+        "SafetyOrange"
+      ],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "SortingConveyor",
+      "path": "/assets/models/SortingConveyor.glb",
+      "bytes": 1446268,
+      "triangles": 9340,
+      "boundsMinXYZ": [
+        -1.735,
+        0.005,
+        -3.135
+      ],
+      "boundsMaxXYZ": [
+        1.735,
+        1.61,
+        2.38
+      ],
+      "sizeMetresXYZ": [
+        3.47,
+        1.605,
+        5.515
+      ],
+      "pivotsXYZ": {
+        "SortingConveyor": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_OpticCyan",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_RustSteel",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_SeedAmber",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "CargoContainer",
+      "path": "/assets/models/CargoContainer.glb",
+      "bytes": 3588940,
+      "triangles": 27852,
+      "boundsMinXYZ": [
+        -3.06,
+        0.005,
+        -1.2795
+      ],
+      "boundsMaxXYZ": [
+        3.17515,
+        2.588,
+        1.2795
+      ],
+      "sizeMetresXYZ": [
+        6.23515,
+        2.583,
+        2.559
+      ],
+      "pivotsXYZ": {},
+      "materials": [
+        "BR_CargoContainer_PBR"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "RescueCrane",
+      "path": "/assets/models/RescueCrane.glb",
+      "bytes": 3288772,
+      "triangles": 29902,
+      "boundsMinXYZ": [
+        -1.225,
+        0.025,
+        -1.066
+      ],
+      "boundsMaxXYZ": [
+        0.91,
+        6.98948,
+        6.885
+      ],
+      "sizeMetresXYZ": [
+        2.135,
+        6.96448,
+        7.951
+      ],
+      "pivotsXYZ": {},
+      "materials": [
+        "BR_RescueCrane_PBR"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "RescueLaunch",
+      "path": "/assets/models/RescueLaunch.glb",
+      "bytes": 2692592,
+      "triangles": 23538,
+      "boundsMinXYZ": [
+        -1.725,
+        -0.59948,
+        -4.3605
+      ],
+      "boundsMaxXYZ": [
+        1.725,
+        4.6,
+        4.39563
+      ],
+      "sizeMetresXYZ": [
+        3.45,
+        5.19948,
+        8.75613
+      ],
+      "pivotsXYZ": {},
+      "materials": [
+        "BR_RescueLaunch_PBR"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "WasteBundle",
+      "path": "/assets/models/WasteBundle.glb",
+      "bytes": 791508,
+      "triangles": 6632,
+      "boundsMinXYZ": [
+        -0.38355,
+        -0.0965,
+        -0.47125
+      ],
+      "boundsMaxXYZ": [
+        0.38161,
+        0.636,
+        0.47248
+      ],
+      "sizeMetresXYZ": [
+        0.76516,
+        0.7325,
+        0.94373
+      ],
+      "pivotsXYZ": {
+        "WasteBundle": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_WastePlastic",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "IntakeFilter",
+      "path": "/assets/models/IntakeFilter.glb",
+      "bytes": 899760,
+      "triangles": 4484,
+      "boundsMinXYZ": [
+        -1.005,
+        0.125,
+        -0.365
+      ],
+      "boundsMaxXYZ": [
+        1.005,
+        2.23,
+        0.668
+      ],
+      "sizeMetresXYZ": [
+        2.01,
+        2.105,
+        1.033
+      ],
+      "pivotsXYZ": {
+        "IntakeFilter": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_HazardRed",
+        "BRPBR_Reclaim_Rubber",
+        "BRPBR_Reclaim_RustSteel",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "FilterFrame",
+      "path": "/assets/models/FilterFrame.glb",
+      "bytes": 770192,
+      "triangles": 3008,
+      "boundsMinXYZ": [
+        -0.497,
+        0.035,
+        -0.105
+      ],
+      "boundsMaxXYZ": [
+        0.497,
+        1.345,
+        0.23
+      ],
+      "sizeMetresXYZ": [
+        0.994,
+        1.31,
+        0.335
+      ],
+      "pivotsXYZ": {
+        "FilterFrame": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_Reclaim_CastIron",
+        "BRPBR_Reclaim_DirtyCanvas",
+        "BRPBR_Reclaim_ForestCeramic",
+        "BRPBR_Reclaim_SafetyOrange",
+        "BRPBR_Reclaim_WetSteel"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "BatteryModule",
+      "path": "/assets/models/BatteryModule.glb",
+      "bytes": 2154592,
+      "triangles": 27086,
+      "boundsMinXYZ": [
+        -0.41,
+        0.0,
+        -0.349
+      ],
+      "boundsMaxXYZ": [
+        0.41,
+        0.73117,
+        0.388
+      ],
+      "sizeMetresXYZ": [
+        0.82,
+        0.73117,
+        0.737
+      ],
+      "pivotsXYZ": {
+        "BatteryModule": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_BatteryModule"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "ControlModule",
+      "path": "/assets/models/ControlModule.glb",
+      "bytes": 1216568,
+      "triangles": 14110,
+      "boundsMinXYZ": [
+        -0.298,
+        -0.005,
+        -0.1985
+      ],
+      "boundsMaxXYZ": [
+        0.298,
+        0.3505,
+        0.24
+      ],
+      "sizeMetresXYZ": [
+        0.596,
+        0.3555,
+        0.4385
+      ],
+      "pivotsXYZ": {
+        "ControlModule": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_ControlModule"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "WindModule",
+      "path": "/assets/models/WindModule.glb",
+      "bytes": 1124808,
+      "triangles": 13308,
+      "boundsMinXYZ": [
+        -0.2465,
+        0.0,
+        -0.207
+      ],
+      "boundsMaxXYZ": [
+        0.2465,
+        0.4485,
+        0.24
+      ],
+      "sizeMetresXYZ": [
+        0.493,
+        0.4485,
+        0.447
+      ],
+      "pivotsXYZ": {
+        "WindModule": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_WindModule"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "ServiceTerminal",
+      "path": "/assets/models/ServiceTerminal.glb",
+      "bytes": 2400660,
+      "triangles": 28016,
+      "boundsMinXYZ": [
+        -0.41398,
+        0.0,
+        -0.266
+      ],
+      "boundsMaxXYZ": [
+        0.41825,
+        1.6,
+        0.30519
+      ],
+      "sizeMetresXYZ": [
+        0.83223,
+        1.6,
+        0.57119
+      ],
+      "pivotsXYZ": {
+        "ServiceTerminal": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_ServiceTerminal"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "WindTurbine",
+      "path": "/assets/models/WindTurbine.glb",
+      "bytes": 2324860,
+      "triangles": 33132,
+      "boundsMinXYZ": [
+        -10.15167,
+        0.0,
+        -2.362
+      ],
+      "boundsMaxXYZ": [
+        10.79766,
+        38.08567,
+        2.93
+      ],
+      "sizeMetresXYZ": [
+        20.94933,
+        38.08567,
+        5.292
+      ],
+      "pivotsXYZ": {
+        "Rotor": [
+          0.0,
+          26.0,
+          1.87
+        ],
+        "WindTurbine": [
+          0.0,
+          0.0,
+          -0.0
+        ]
+      },
+      "materials": [
+        "BRPBR_WindTurbine_Rotor",
+        "BRPBR_WindTurbine_Static"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "IslandTechnician",
+      "path": "/assets/models/IslandTechnician.glb",
+      "bytes": 435664,
+      "triangles": 7676,
+      "boundsMinXYZ": [
+        -0.352,
+        0.001,
+        -0.20764
+      ],
+      "boundsMaxXYZ": [
+        0.352,
+        1.842,
+        0.2115
+      ],
+      "sizeMetresXYZ": [
+        0.704,
+        1.841,
+        0.41914
+      ],
+      "pivotsXYZ": {
+        "IslandTechnician": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "Pelvis": [
+          0.0,
+          0.88,
+          -0.0
+        ],
+        "Torso": [
+          0.0,
+          1.13,
+          -0.0
+        ],
+        "Head": [
+          0.0,
+          1.51,
+          0.018
+        ],
+        "Arm_Left": [
+          -0.25,
+          1.43,
+          -0.0
+        ],
+        "Arm_Right": [
+          0.25,
+          1.43,
+          -0.0
+        ],
+        "Leg_Left": [
+          -0.106,
+          0.89,
+          -0.0
+        ],
+        "Leg_Right": [
+          0.106,
+          0.89,
+          -0.0
+        ]
+      },
+      "materials": [
+        "Technician_BootRubber",
+        "Technician_BootSole",
+        "Technician_Hair",
+        "Technician_Helmet_Cream",
+        "Technician_Jacket_DeepTeal",
+        "Technician_ReflectiveTape",
+        "Technician_Skin",
+        "Technician_SkinShade",
+        "Technician_Steel",
+        "Technician_TabletScreen",
+        "Technician_Trousers",
+        "Technician_Vest_Edge",
+        "Technician_Vest_SafetyOrange"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "EngineerPlayer",
+      "path": "/assets/models/EngineerPlayer.glb",
+      "bytes": 501452,
+      "triangles": 8324,
+      "boundsMinXYZ": [
+        -0.352,
+        0.001,
+        -0.383
+      ],
+      "boundsMaxXYZ": [
+        0.352,
+        1.842,
+        0.2115
+      ],
+      "sizeMetresXYZ": [
+        0.704,
+        1.841,
+        0.5945
+      ],
+      "pivotsXYZ": {
+        "EngineerPlayer": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "Pelvis": [
+          0.0,
+          0.88,
+          -0.0
+        ],
+        "Torso": [
+          0.0,
+          1.13,
+          -0.0
+        ],
+        "Head": [
+          0.0,
+          1.51,
+          0.018
+        ],
+        "Arm_Left": [
+          -0.25,
+          1.43,
+          -0.0
+        ],
+        "Arm_Right": [
+          0.25,
+          1.43,
+          -0.0
+        ],
+        "Leg_Left": [
+          -0.106,
+          0.89,
+          -0.0
+        ],
+        "Leg_Right": [
+          0.106,
+          0.89,
+          -0.0
+        ]
+      },
+      "materials": [
+        "Engineer_BootRubber",
+        "Engineer_BootSole",
+        "Engineer_Electronics_Cyan",
+        "Engineer_Hair",
+        "Engineer_Harness_Teal",
+        "Engineer_Helmet_SunYellow",
+        "Engineer_Jacket_Navy",
+        "Engineer_Pack_Canvas",
+        "Engineer_Pack_Frame",
+        "Engineer_Pack_Panel",
+        "Engineer_ReflectiveTape",
+        "Engineer_ReusableCell",
+        "Engineer_Skin",
+        "Engineer_SkinShade",
+        "Engineer_Steel",
+        "Engineer_Trim_BottleGreen",
+        "Engineer_Trousers_Forest"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "IslandTechnician_Green",
+      "path": "/assets/models/IslandTechnician_Green.glb",
+      "bytes": 434488,
+      "triangles": 7676,
+      "boundsMinXYZ": [
+        -0.352,
+        0.001,
+        -0.20764
+      ],
+      "boundsMaxXYZ": [
+        0.352,
+        1.842,
+        0.2115
+      ],
+      "sizeMetresXYZ": [
+        0.704,
+        1.841,
+        0.41914
+      ],
+      "pivotsXYZ": {
+        "IslandTechnician": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "Pelvis": [
+          0.0,
+          0.88,
+          -0.0
+        ],
+        "Torso": [
+          0.0,
+          1.13,
+          -0.0
+        ],
+        "Head": [
+          0.0,
+          1.51,
+          0.018
+        ],
+        "Arm_Left": [
+          -0.25,
+          1.43,
+          -0.0
+        ],
+        "Arm_Right": [
+          0.25,
+          1.43,
+          -0.0
+        ],
+        "Leg_Left": [
+          -0.106,
+          0.89,
+          -0.0
+        ],
+        "Leg_Right": [
+          0.106,
+          0.89,
+          -0.0
+        ]
+      },
+      "materials": [
+        "Technician_BootRubber",
+        "Technician_BootSole",
+        "Technician_Hair",
+        "Technician_Helmet_Cream",
+        "Technician_Jacket_DeepTeal",
+        "Technician_ReflectiveTape",
+        "Technician_Skin",
+        "Technician_SkinShade",
+        "Technician_Steel",
+        "Technician_TabletScreen",
+        "Technician_Trousers",
+        "Technician_Vest_Edge",
+        "Technician_Vest_SafetyOrange"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    },
+    {
+      "name": "IslandTechnician_Orange",
+      "path": "/assets/models/IslandTechnician_Orange.glb",
+      "bytes": 435564,
+      "triangles": 7676,
+      "boundsMinXYZ": [
+        -0.352,
+        0.001,
+        -0.20764
+      ],
+      "boundsMaxXYZ": [
+        0.352,
+        1.842,
+        0.2115
+      ],
+      "sizeMetresXYZ": [
+        0.704,
+        1.841,
+        0.41914
+      ],
+      "pivotsXYZ": {
+        "IslandTechnician": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "Pelvis": [
+          0.0,
+          0.88,
+          -0.0
+        ],
+        "Torso": [
+          0.0,
+          1.13,
+          -0.0
+        ],
+        "Head": [
+          0.0,
+          1.51,
+          0.018
+        ],
+        "Arm_Left": [
+          -0.25,
+          1.43,
+          -0.0
+        ],
+        "Arm_Right": [
+          0.25,
+          1.43,
+          -0.0
+        ],
+        "Leg_Left": [
+          -0.106,
+          0.89,
+          -0.0
+        ],
+        "Leg_Right": [
+          0.106,
+          0.89,
+          -0.0
+        ]
+      },
+      "materials": [
+        "Technician_BootRubber",
+        "Technician_BootSole",
+        "Technician_Hair",
+        "Technician_Helmet_Cream",
+        "Technician_Jacket_DeepTeal",
+        "Technician_ReflectiveTape",
+        "Technician_Skin",
+        "Technician_SkinShade",
+        "Technician_Steel",
+        "Technician_TabletScreen",
+        "Technician_Trousers",
+        "Technician_Vest_Edge",
+        "Technician_Vest_SafetyOrange"
+      ],
+      "missingPbrMaps": [],
+      "fallbackMaterials": [],
+      "front": "+Z",
+      "up": "+Y"
+    }
+  ]
+}
